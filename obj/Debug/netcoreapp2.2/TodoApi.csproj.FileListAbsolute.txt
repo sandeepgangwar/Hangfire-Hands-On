@@ -1,0 +1,14 @@
+C:\Users\SGangwar\Desktop\POC\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\SGangwar\Desktop\POC\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\SGangwar\Desktop\POC\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\SGangwar\Desktop\POC\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\SGangwar\Desktop\POC\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\SGangwar\Desktop\POC\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
