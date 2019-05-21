@@ -27,7 +27,7 @@ namespace TodoApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHangfire(Configuration=>{
-                Configuration.UseSqlServerStorage("Server=SILICUS487\\SQLEXPRESS2017;Database=dev;User Id=sa;Password=Pa55w0rd;");
+                Configuration.UseSqlServerStorage("Server=(localDB)\\SQLEXPRESS2017;Database=dev;User Id=sa;Password=Pa55w0rd;");
             });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
